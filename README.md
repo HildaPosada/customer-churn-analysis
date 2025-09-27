@@ -70,3 +70,48 @@ Best parameters improved model stability and generalization.
 
 ### Deliverable
 - Final tuned model saved as: models/final_churn_model.pkl
+
+##📊 Business Insights
+Key Findings
+
+1. High-Risk Customers
+
+Month-to-month contracts → churn rate ~43%
+
+Fiber optic internet users → churn rate ~41%
+
+Electronic check payment → highest churn across payment methods
+
+Short-tenure customers (<12 months) → significantly higher churn risk
+
+Senior Citizens → higher churn compared to younger customers
+
+2. Top Churn Drivers (Model Insights)
+
+Contract type (shorter contracts = more churn)
+
+InternetService = Fiber optic
+
+PaymentMethod = Electronic check
+
+Tenure (shorter = higher churn)
+
+Charges (higher monthly, lower lifetime = risk)
+
+3. Financial Impact
+
+Churners: ~1,869 customers (~26.6% of total)
+
+Average monthly revenue per customer: ~$65
+
+Estimated annual revenue lost from churn: $1.46M
+
+4. Retention Strategies
+
+Offer contract incentives (discounts for switching to annual contracts).
+
+Create service bundles (security, device protection, online backup).
+
+Encourage auto-pay with credit card/bank transfer to reduce churn-prone groups.
+
+Deploy customer success outreach during first 12 months of tenure.
