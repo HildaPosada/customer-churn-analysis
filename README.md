@@ -193,10 +193,9 @@ predictions = model.predict(X_test)
 
 **GitHub**: [Your GitHub Profile]
 **LinkedIn**: [Your LinkedIn Profile]
-**Email**: [Your Email]
 
-**Portfolio Highlight**: *"Built a customer churn prediction model achieving 83% ROC-AUC that identified key risk factors, leading to retention strategies projected to save $146K annually through targeted interventions for high-risk customer segments."*
+**Portfolio Highlight**: *Built a customer churn prediction model achieving 83% ROC-AUC that identified key risk factors, leading to retention strategies projected to save $146K annually through targeted interventions for high-risk customer segments.*
 
 ---
 
-**Project Timeline**: 3 weeks | **Total Hours**: ~15 hours | **Completion**: January 2025
+**Project Timeline**: 3 weeks | **Total Hours**: ~15 hours | **Completion**: September 2025
