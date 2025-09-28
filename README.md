@@ -25,7 +25,6 @@ This end-to-end machine learning project builds a **customer churn prediction mo
 | **Database** | SQLite Online |
 | **Analysis & Modeling** | Python (pandas, scikit-learn, XGBoost) |
 | **Visualization** | Tableau Public |
-| **Deployment** | Vercel |
 | **Data Source** | Kaggle Telco Customer Churn Dataset |
 
 ## 📊 Dataset
@@ -115,8 +114,6 @@ This end-to-end machine learning project builds a **customer churn prediction mo
 customer-churn-analysis/
 ├── data/
 │   └── telco_customer_churn.csv
-├── docs/
-│   └── project_documentation.md
 ├── models/
 │   └── final_churn_model.pkl
 ├── notebooks/
@@ -129,10 +126,6 @@ customer-churn-analysis/
 │   ├── 01_churn_overview.sql
 │   ├── 02_service_revenue_analysis.sql
 │   └── 03_demographics_analysis.sql
-├── src/
-│   └── (Python modules - optional)
-├── tableau/
-│   └── churn_dashboard.twbx
 └── README.md
 ```
 
@@ -164,14 +157,17 @@ predictions = model.predict(X_test)
 
 ## 📈 Dashboard & Visualizations
 
-**Tableau Public Dashboard**: [View Live Dashboard](#)
+**Tableau Public Dashboard**: [View Live Dashboard](https://public.tableau.com/app/profile/hilda.posada/viz/CustomerChurnAnalysis_17590022655190/CustomerChurnAnalysisDashboard?publish=yes)
 
 **Key Dashboard Components:**
-- Customer churn overview and trends
-- Risk factor analysis by segment
-- Financial impact visualization
-- Retention strategy recommendations
-- Real-time customer risk scoring
+- **Churn Overview**: 26.6% overall churn rate (1,869 of 7,043 customers)
+- **Contract Analysis**: Month-to-month customers show 43% churn rate vs 3% for two-year contracts
+- **Internet Service Risk**: Fiber optic users at 41% churn risk, DSL at 19%, No internet at 7%
+- **Payment Method Risk**: Electronic check users show highest churn rates
+- **Customer Segmentation**: New customers (0-12 months) at 47% churn risk
+- **Service Impact Analysis**: Customers without add-on services show 30%+ higher churn
+- **Financial Impact KPIs**: $1.4M+ annual revenue at risk from 1,869 churned customers
+- **Retention ROI**: 10% churn reduction targeting 187 at-risk customers saves $146K annually
 
 ## 🎯 Skills Demonstrated
 
@@ -193,9 +189,10 @@ predictions = model.predict(X_test)
 
 **GitHub**: [Your GitHub Profile]
 **LinkedIn**: [Your LinkedIn Profile]
+**Email**: [Your Email]
 
-**Portfolio Highlight**: *Built a customer churn prediction model achieving 83% ROC-AUC that identified key risk factors, leading to retention strategies projected to save $146K annually through targeted interventions for high-risk customer segments.*
+**Portfolio Highlight**: *"Built a customer churn prediction model achieving 83% ROC-AUC that identified key risk factors, leading to retention strategies projected to save $146K annually through targeted interventions for high-risk customer segments."*
 
 ---
 
-**Project Timeline**: 3 weeks | **Total Hours**: ~15 hours | **Completion**: September 2025
+**Project Timeline**: **Total Hours**: ~15 hours | **Completion**: September 2025
