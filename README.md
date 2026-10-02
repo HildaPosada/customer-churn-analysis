@@ -1,9 +1,16 @@
 # Customer Churn Analysis 📊
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logoColor=white)](https://xgboost.readthedocs.io/)
+[![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/current/tutorial-sql.html)
+[![Tableau](https://img.shields.io/badge/Tableau-7C3AED?style=for-the-badge&logoColor=white)](https://www.tableau.com/)
+
+
 **Predicting customer churn for a telecommunications company using machine learning and delivering actionable business insights.**
 
 ![Project Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![ML Models](https://img.shields.io/badge/Models-3-orange)
 ![Accuracy](https://img.shields.io/badge/Best%20Accuracy-80%25-green)
 
