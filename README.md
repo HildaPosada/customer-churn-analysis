@@ -8,6 +8,8 @@
 [![Tableau](https://img.shields.io/badge/Tableau-7C3AED?style=for-the-badge&logoColor=white)](https://www.tableau.com/)
 
 
+> **[Live dashboard](https://public.tableau.com/app/profile/hilda.posada/viz/CustomerChurnAnalysis_17590022655190/CustomerChurnAnalysisDashboard)**
+
 **Predicting customer churn for a telecommunications company using machine learning and delivering actionable business insights.**
 
 ![Project Status](https://img.shields.io/badge/Status-Complete-brightgreen)
@@ -164,7 +166,6 @@ predictions = model.predict(X_test)
 
 ## 📈 Dashboard & Visualizations
 
-**Tableau Public Dashboard**: [View Live Dashboard](https://public.tableau.com/app/profile/hilda.posada/viz/CustomerChurnAnalysis_17590022655190/CustomerChurnAnalysisDashboard?publish=yes)
 
 **Key Dashboard Components:**
 - **Churn Overview**: 26.6% overall churn rate (1,869 of 7,043 customers)
